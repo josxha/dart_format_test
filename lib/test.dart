@@ -3,7 +3,8 @@ enum Test1 { a, b, c }
 enum Test2 {
   x('example'),
   y('example2'),
-  z('example3');
+  z('example3')
+  ;
 
   const Test2(this.someVariable);
 
@@ -13,7 +14,8 @@ enum Test2 {
 enum Test3 {
   one(1, 'first'),
   two(2, 'second'),
-  three(3, 'third');
+  three(3, 'third')
+  ;
 
   const Test3(this.number, this.description);
 

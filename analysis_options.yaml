@@ -1,2 +1,2 @@
-#formatter:
-#  trailing_commas: preserve
+formatter:
+  trailing_commas: preserve

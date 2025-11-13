@@ -1,0 +1,9 @@
+name: dart_format_test
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  # flutter3.38 released with beta version of dart
+  sdk: '>=3.10.0-290.4.beta <4.0.0'
